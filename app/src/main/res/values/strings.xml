@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="twoPlayer">Two PLayer</string>
+    <string name="onePlayer">One Player</string>
+    <string name="Play">Play</string>
+    <string name="Settings">Settings</string>
+    <string name="Exit">Create Account</string>
+    <string name="Sound">Sound</string>
+    <string name="Lanuage">Lanuage</string>
+    <string name="Kurdish">Kurdish</string>
+    <string name="English">English</string>
+    <string name="Back">Back</string>
+
+
+</resources>

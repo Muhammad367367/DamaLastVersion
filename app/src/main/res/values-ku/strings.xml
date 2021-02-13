@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">دامە</string>
+    <string name="action_settings">ڕێکخستنەکان</string>
+    <string name="twoPlayer">یاریکردن لەگەڵ هاوڕێ</string>
+    <string name="onePlayer">یاریکردن لەگەڵ کۆمپیوتەر</string>
+    <string name="Play">یاریکردن</string>
+    <string name="Settings">ڕێکخستنەکان</string>
+    <string name="Exit">داخڵکردنی هەژمار</string>
+    <string name="Sound">دەنگ</string>
+    <string name="Lanuage">زمان</string>
+    <string name="Kurdish">کوردی</string>
+    <string name="English">ئینگلیزی</string>
+    <string name="Back">گەرانەوە</string>
+</resources>
