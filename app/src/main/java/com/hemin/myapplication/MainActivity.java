@@ -44,7 +44,9 @@ MediaPlayer media;
     public void createAccount(View view) {
         startActivity(new Intent(MainActivity.this,CreateAccount.class));
      }
-
+    public void leaderBoard(View view) {
+        startActivity(new Intent(MainActivity.this,LeaderBoard.class));
+    }
     public void Setting(View view) {
         startActivity(new Intent(MainActivity.this,Setting.class));
         this.finish();

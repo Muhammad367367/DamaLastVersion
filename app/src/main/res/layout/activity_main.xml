@@ -48,6 +48,13 @@
                 android:text="@string/Exit" />
 
             <Button
+                android:id="@+id/createAccount"
+                android:layout_width="match_parent"
+                android:layout_height="65dp"
+                android:onClick="leaderBoard"
+                android:text="@string/LeaderBoard" />
+
+            <Button
                 android:id="@+id/Setting"
                 android:layout_width="match_parent"
                 android:layout_height="64dp"

@@ -35,6 +35,5 @@ public class CreateAccount extends AppCompatActivity {
                     Toast.LENGTH_SHORT).show();
         }
         this.finish();
-
     }
 }
